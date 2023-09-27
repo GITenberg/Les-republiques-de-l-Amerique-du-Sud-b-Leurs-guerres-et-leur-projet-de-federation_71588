@@ -1,5 +1,8 @@
 _repo: Les-republiques-de-l-Amerique-du-Sud-b-Leurs-guerres-et-leur-projet-de-federation_71588
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71588-h/images/cover.jpg
 creator:
   author:
     agent_name: Reclus, Elisée
@@ -16,6 +19,8 @@ creator:
     - https://es.wikipedia.org/wiki/%C3%89lis%C3%A9e_Reclus
     - https://fr.wikipedia.org/wiki/%C3%89lis%C3%A9e_Reclus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71588#Les-republiques-de-l-Amerique-du-Sud-b-Leurs-guerres-et-leur-projet-de-federation
 gutenberg_issued: '2023-09-07'
 identifiers:
   gutenberg: '71588'
